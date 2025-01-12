@@ -54,9 +54,9 @@
            <br />
           <!-- third row  -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma&theme=light" />
+            <img src="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
