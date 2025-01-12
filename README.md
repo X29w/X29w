@@ -47,16 +47,16 @@
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=electron%2Cnestjs%2Crollupjs%2Csqlite%2Cvitest%2Cvite%2Cnodejs%&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=electron%2Cnestjs%2Crollupjs%2Csqlite%2Cvitest%2Cvite%2Cnodejs&theme=light" />
-            <img src="https://skillicons.dev/icons?i=electron%2Cnestjs%2Crollupjs%2Csqlite%2Cvitest%2Cvite%2Cnodejs&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=electron,nestjs,rollupjs,sqlite,vitest,vite,nodejs&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=electron,nestjs,rollupjs,sqlite,vitest,vite,nodejs&theme=light" />
+            <img src="https://skillicons.dev/icons?i=electron,nestjs,rollupjs,sqlite,vitest,vite,nodejs&theme=light" alt="skills - 2" />
         </picture>
            <br />
-          <!-- third row -->
+          <!-- third row  -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma%&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=docker%2Cmysql%2Credux%2Cprisma%2C&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=light" />
+            <img src="https://skillicons.dev/icons?i=docker,mysql,redux,prisma&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
