@@ -99,7 +99,7 @@
   <!-- streak stats  -->
    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=x29w&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=x29w&theme=react" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=x29w&theme=react&border=61dafb" />
         <img align="left" width=390 src="https://streak-stats.demolab.com/?user=x29w&theme=react&border=61dafb" alt="x29w's streak stats" />
       </picture>
